@@ -2,7 +2,7 @@
 > These are 2 exercises(sum of 2-matrices, stop watch)  using threads during OS's Lab
 
 ## Contents
-  > [**1. Matrix](https://github.com/mohanadtalat91/Threads/tree/master/Matrix)
+  > [**1. Matrix**](https://github.com/mohanadtalat91/Threads/tree/master/Matrix)
   > [**2. Stop watch**](https://github.com/mohanadtalat91/Threads/tree/master/Stop_watch)
     
 ## Contributing
